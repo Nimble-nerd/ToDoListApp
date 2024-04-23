@@ -1,9 +1,10 @@
 To run the app, follow the following steps:
 
-**1. Run the web api (a .net 8 api)
+1. Run the web api (a .net 8 api)
 2. Run the react app (npm run dev)
 3. Download the file 'An example video of ToDoListApp' which demonstrates the usage of the app.
-**
+
+   
 The to do list app covers the followings :
 
 1. The tasks must be longer than 10 characters (empty task is not allowed as well) Otherwise an error message is displayed.
