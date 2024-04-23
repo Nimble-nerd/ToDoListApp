@@ -12,8 +12,10 @@ The to do list app covers the followings :
    <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/ab5a21fb-633b-4d81-b2bf-fe9c2ddc339c">
 3. A deadline can be defined (on edit mode).   
    <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/b0f6e0dc-f5d5-44ee-a9e7-413e0294cbd3">
-4. All tasks that are overdue will be marked in red.   
-   <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/74fa1a96-11c6-4efe-aa3c-9d52aa39e60b">   
+4. All tasks that are overdue will be marked in red.
+    
+   <img width="500" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/74fa1a96-11c6-4efe-aa3c-9d52aa39e60b">
+   
 5. They can be deleted and marked as done (and reverted as undone as well)
    <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/35c432cf-0b82-466e-863e-684eadd5c94f">
 6. The tasks are displayed in a table.   
