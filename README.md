@@ -1,3 +1,9 @@
+To run the app, follow the following steps:
+
+**1. Run the web api (a .net 8 api)
+2. Run the react app (npm run dev)
+3. Download the file 'An example video of ToDoListApp' which demonstrates the usage of the app.
+**
 The to do list app covers the followings :
 
 1. The tasks must be longer than 10 characters (empty task is not allowed as well) Otherwise an error message is displayed.
@@ -20,12 +26,6 @@ The to do list app covers the followings :
 
 7. The tasks are persisted in a data storage of your choice. (I have used in-memory provider of entity framework for the sake of simplicity)
 
-**To run the app, follow the following steps:
-
-1. Run the web api (a .net 8 api)
-2. Run the react app (npm run dev)
-3. Download the file 'An example video of ToDoListApp' which demonstrates the usage of the app.
-**
 
 N.B: I have deliberately skipped implementing any cross-cutting concerns i.e. logging, security etc.
 
