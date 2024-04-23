@@ -16,14 +16,16 @@ The to do list app covers the followings :
  <img width="412" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/8487fbb4-721b-469e-8b71-5a6e7a51fe50">
 
 6. They can be deleted and marked as done (and reverted as undone as well)
+   <img width="482" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/35c432cf-0b82-466e-863e-684eadd5c94f">
+
 7. The tasks are persisted in a data storage of your choice. (I have used in-memory provider of entity framework for the sake of simplicity)
 
-To run the app, follow the following steps:
+**To run the app, follow the following steps:
 
 1. Run the web api (a .net 8 api)
 2. Run the react app (npm run dev)
 3. Download the file 'An example video of ToDoListApp' which demonstrates the usage of the app.
-
+**
 
 N.B: I have deliberately skipped implementing any cross-cutting concerns i.e. logging, security etc.
 
