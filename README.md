@@ -21,7 +21,7 @@ The to do list app covers the followings :
 
 5. The tasks are displayed in a table.
    
- <img width="412" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/8487fbb4-721b-469e-8b71-5a6e7a51fe50">
+   <img width="412" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/8487fbb4-721b-469e-8b71-5a6e7a51fe50">
 
 6. They can be deleted and marked as done (and reverted as undone as well)
    <img width="482" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/35c432cf-0b82-466e-863e-684eadd5c94f">
