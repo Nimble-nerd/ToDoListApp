@@ -17,7 +17,9 @@ The to do list app covers the followings :
    <img width="609" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/7eb8e315-457f-4035-8313-3130fb3172cf">
 
 5. They can be deleted and marked as done (and reverted as undone as well)
+   
    <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/35c432cf-0b82-466e-863e-684eadd5c94f">
+   
 6. The tasks are displayed in a table.   
    <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/8487fbb4-721b-469e-8b71-5a6e7a51fe50">
 7. The tasks are persisted in a data storage of your choice. (I have used in-memory provider of entity framework for the sake of simplicity)
