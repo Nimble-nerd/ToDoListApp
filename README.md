@@ -8,8 +8,8 @@ To run the app, follow the following steps:
 The to do list app covers the followings :
 
 1. The tasks must be longer than 10 characters (empty task is not allowed as well) Otherwise an error message is displayed.
-<img width="469" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/b9d620b9-1897-43d2-8fa9-54f604bb81d0">
-<img width="510" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/ab5a21fb-633b-4d81-b2bf-fe9c2ddc339c">
+   <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/b9d620b9-1897-43d2-8fa9-54f604bb81d0">
+   <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/ab5a21fb-633b-4d81-b2bf-fe9c2ddc339c">
 
 3. A deadline can be defined (on edit mode).
    
