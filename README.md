@@ -13,17 +13,17 @@ The to do list app covers the followings :
 
 3. A deadline can be defined (on edit mode).
    
-   <img width="533" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/b0f6e0dc-f5d5-44ee-a9e7-413e0294cbd3">
+   <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/b0f6e0dc-f5d5-44ee-a9e7-413e0294cbd3">
 
 4. All tasks that are overdue will be marked in red.
    
-   <img width="457" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/74fa1a96-11c6-4efe-aa3c-9d52aa39e60b">
+   <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/74fa1a96-11c6-4efe-aa3c-9d52aa39e60b">
 
 5. The tasks are displayed in a table.   
-   <img width="412" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/8487fbb4-721b-469e-8b71-5a6e7a51fe50">
+   <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/8487fbb4-721b-469e-8b71-5a6e7a51fe50">
 
 6. They can be deleted and marked as done (and reverted as undone as well)
-   <img width="482" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/35c432cf-0b82-466e-863e-684eadd5c94f">
+   <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/35c432cf-0b82-466e-863e-684eadd5c94f">
 
 7. The tasks are persisted in a data storage of your choice. (I have used in-memory provider of entity framework for the sake of simplicity)
 
