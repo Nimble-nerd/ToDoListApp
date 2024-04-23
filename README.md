@@ -18,7 +18,8 @@ The to do list app covers the followings :
 4. All tasks that are overdue will be marked in red.   
    <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/74fa1a96-11c6-4efe-aa3c-9d52aa39e60b">
    
-5. The tasks are displayed in a table.   
+5. The tasks are displayed in a table.
+   
    <img width="300" alt="image" src="https://github.com/Nimble-nerd/ToDoListApp/assets/155387191/8487fbb4-721b-469e-8b71-5a6e7a51fe50">
 
 6. They can be deleted and marked as done (and reverted as undone as well)
